@@ -1,0 +1,6 @@
+{
+  "name": "Red Balloon",
+  "description": "An endless side-scrolling monochrome flyer game where you navigate a man holding a bright red balloon through treacherous skies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
